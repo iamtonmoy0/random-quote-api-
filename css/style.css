@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-transform: capitalize;
+}
+
+button {
+    background-color: aqua;
+    border: 0;
+    padding: 10px;
+    border-radius: 5%;
+}
